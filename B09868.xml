@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remarkable account of the penitent carriage and behavior of the whip-makers wife, both before and since her confinement in Newgate.  To which is added, the relation how strangely her house was troubled and disturbed that night her maid Mary Cox died.  Attested by a person then present.  As also added several remarkable passages relating to her murthering the said maid : with an account of her decent burial.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09868</idno><idno type="EEBO-CITATION">64551674</idno>
+  <idno type="VID">184760</idno>
+  <idno type="EEBO-PROQUEST">2240875497</idno>
+  
+            <idno type="STC">Wing R915A</idno>
+            <idno type="STC">ESTC R182608</idno>
+            <idno type="OCLC">64551674</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09868)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184760)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remarkable account of the penitent carriage and behavior of the whip-makers wife, both before and since her confinement in Newgate.  To which is added, the relation how strangely her house was troubled and disturbed that night her maid Mary Cox died.  Attested by a person then present.  As also added several remarkable passages relating to her murthering the said maid : with an account of her decent burial.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Janeway in Queens Head-Ally in Paternoster-Row,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publishers advertisements at end of broadside.</note>
+                  <note>Imperfect: broadside creased with slight loss of print.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cox, Mary, d. ca. 1680.</term>
+               <term type="topical_term">Murder --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:184760:1"/>
+            <head>A Remarkable ACCOUNT OF THE Penitent Carriage and Behaviour OF THE Whip-makers Wife, Both before and since her Confinement in <hi>Newgate.</hi> To which is Added, The Relation how strangely her House was <hi>troubled and disturbed</hi> that Night her Maid <hi>Mary Cox</hi> died. <hi>Attested by a Person then present.</hi> As also Added Several Remarkable Passages relating to her <hi>Murthering</hi> the said Maid: With an Account of her Decent <hi>Burial.</hi>
+            </head>
+            <head type="sub">Publish'd to prevent false Reports.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licensed according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>IF we should go about to innumerate or lay down the Misfortunes and Calamities that attend on Humane Life in their Particulars, it would not only prove tedious, but a Theam exceeding large, if not impossi<g ref="char:EOLhyphen"/>ble, to delineate them in their many and various Circumstances: And it is held as a true Maxim, That no Person can account himself happy till his Latter End; and that we may always be careful not to depend too much upon long Life, the Wise Men of all Ages have compared Life to very short and momentary things, as <hi>a Span, a Bubble, a Shadow, a Flower that fadeth,</hi> &amp;c. How then ought we to set a Watch over our Actions! and especially over <hi>Ʋnruly Passions,</hi> to prevent our being accessory to our own Miseries, and hastning our Ends, which of themselves are wound off too fast by Time, and the many Casualties that happen, as daily Experi<g ref="char:EOLhyphen"/>ence teaches; so that we are rarely acquainted with the time of our Change, till it comes upon us <hi>like a Thief in the Night;</hi> and when we think our selves <hi>in the midst of Life we are in Death;</hi> and of this kind we might instance many Modern Examples: But seeing that of the Barbarous Murder of <hi>Mary Cox</hi> has lately made a considerable Noise, not only in and about this great City, but in remoter Parts, it may not, we hope, be censured as a thing amiss, if we give a further Account of what since has happened relating to that Murder.</p>
+            <p>To return then to our Promise. Mrs. <hi>Deacon</hi> (after murdering her Maid-Servant) was kept a Prisoner in her own House under a Guard, and the Jury, after a full Enquiry into the Premises, and some hours Debate
+<pb facs="tcp:184760:2"/>finding <hi>Mary Cox</hi> to die of the bad Usage, and giving it in Wilful Murder, <hi>Elizabeth Deacon</hi> was thereupon committed to the Custody of the Keeper of <hi>Newgate,</hi> and sent in the most private manner the Affair would admit, least any violence might happen from the incensed Rabble, who threatned no less than the pulling down the House, about which they gathered in Crowds, and about which a Guard was afterwards placed. She appeared at first somewhat resolute and unconcern'd for the great Misery her unad<g ref="char:EOLhyphen"/>vised Rashness had <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> being in a closer Confinement, Sadness visibly overspread her Face, and she relented o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, con<g ref="char:EOLhyphen"/>tinuing very pensive, wishing she had been timely wiser, than to give way to her Passion, <hi>&amp;c.</hi> and shews a considerable Remorse d<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this Affliction of the Family. And indeed whatsoever vain Thoughts Persons may in the heat of their Youth or Passion entertain of Religion, yet they will sooner or later feel a Testimony which God hath given into every ones Breast, which will one day make them serious, either by the inexpressible Fears, Terrors and Agonies of a troubled Mind, or by the inconceivable Peace, Joy and Comfort of a good Conscience.</p>
+            <p>The House was much troubled and disturb'd that Night the Maid died, which is confirmed by a Person then present: <hi>There was a Noise like the Noise of a Drum, and sometimes another strange Noise, like scratching behind a Partition in another Room, all which was very affrighting,</hi> to the Persons then present.</p>
+            <p>Her Carriage before the Jury was undaunted, till she saw her Man declare to the Jury, That he saw her strike the Maid on the Head with a Hammer; then she fell out a weeping, and was much concerned. She was soon after sent to <hi>Newgate,</hi> and put into the Dungeon, but the next day removed to the <hi>Press-yard,</hi> where she now is, but very melancholy and pensive, and cares not to discourse any Body. Her Husband resolves to part (as 'tis said) with all, if her Life can be saved.</p>
+            <p>Mr. <hi>Deacon</hi> being sent for in great Hast, left his Affairs imperfect at <hi>Bristol,</hi> and upon his Arrival decently interr'd the Body of <hi>Mary Cox,</hi> expressing his Sorrow for so sad a Disaster in his Absence; and visiting his Wife, la<g ref="char:EOLhyphen"/>boured to comfort her, as other Friends have done. Some Reports there fly abroad, that she is with Child, but with what certainty we know not, but must leave the issue of the rest to the Event and Justice of the Nation, desiring in the mean while all People to beware by this Misfortune, how they give themselves up to be transported by unruly Passion.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Janeway</hi> in <hi>Queens Head-Ally</hi> in <hi>Paternoster-Row,</hi> 1689.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>THere is now Publish'd a New Play, Entituled, <hi>The Abdicated Prince, or the Adventures of Four Years, a Tragi-Comedy, as it was lately Acted at the Court at</hi> Alba Regalis, <hi>by several Persons of Great Quality.</hi>
+            </p>
+            <list>
+               <head>The Actors Names.</head>
+               <item>
+                  <hi>The MEN.</hi>
+                  <list>
+                     <item>
+                        <hi>Cullydada,</hi> King of <hi>Hungaria Nova.</hi>
+                     </item>
+                     <item>
+                        <hi>Philonax,</hi> his true Friend and Councellor, but out of Favour.</item>
+                     <item>
+                        <hi>Philodemus,</hi> Duke of <hi>Monumora,</hi> the Darling of the People.</item>
+                     <item>
+                        <hi>Pietro,</hi> a sly malicious Villain; a Renegado Christian, and turn'd a Mahometan Priest, chief Favourite of the Kings, and a Mortal Enemy to the <hi>Hungarians.</hi>
+                     </item>
+                     <item>Count <hi>Dadamore,</hi> a special Favourite of the Queens, an Italian by Birth, and sent on a secret Message by the <hi>Mafti</hi> to the Hungarian Court.</item>
+                     <item>
+                        <hi>Barbarossa,</hi> Chancellor of <hi>Hungaria,</hi> a bloody-minded Villain: and Enemy to the Christians.</item>
+                     <item>
+                        <hi>Warranto Dispens<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> Two Creatures of the Chancellors, rais'd on purpose to ruine the Laws and Li<g ref="char:EOLhyphen"/>berties of the Hungarians.</item>
+                     <item>
+                        <hi>Remarquo,</hi> an honest Hungarian, a deep Observer of Court Intrigues, who by a witty sort of Buf<g ref="char:EOLhyphen"/>foonry picks out and and discovers all their Plots and Contrivances.</item>
+                     <item>Sentinels, Rabble, Messengers, Country-people, Officers</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>The WOMEN,</hi>
+                  <list>
+                     <item>
+                        <hi>Hautefelia,</hi> Queen of <hi>Hungary,</hi> a proud imperious bloody-minded Woman, sworn Enemy to the Chri<g ref="char:EOLhyphen"/>stians, in Love with Count <hi>Dadamore.</hi>
+                     </item>
+                     <item>
+                        <hi>Mazeto,</hi> Marchioness of <hi>Bulgaria,</hi> chief Confident of <hi>Hautefelia.</hi>
+                     </item>
+                     <item>
+                        <hi>Sycophante,</hi> Countess of <hi>Shambrogue,</hi> and Fovourite of <hi>Hautefelia.</hi>
+                     </item>
+                     <item>
+                        <hi>Celia,</hi> Midwife to the Queen.</item>
+                     <item>
+                        <hi>Secretta,</hi> Nurse to the Queen.</item>
+                  </list>
+               </item>
+            </list>
+            <p>Sold by most Booksellers of <hi>London</hi> and <hi>Westminster.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
